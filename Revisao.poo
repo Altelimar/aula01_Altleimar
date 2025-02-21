@@ -600,5 +600,3 @@ public final class Exercicio02 {
         System.out.println("A Soma dos numeros " + soma);
     }
 }
- 
- 
